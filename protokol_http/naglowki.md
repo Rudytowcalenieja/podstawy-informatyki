@@ -1,7 +1,7 @@
 # Nagłówki Żądania
 
 - **Accept:**
-    \*/\* <br>
+    / <br>
     Definiuje typy mediów, które klient może zaakceptować od serwera
 - **Accept-Encoding:**
 	gzip, deflate, br
